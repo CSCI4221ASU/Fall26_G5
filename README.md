@@ -42,7 +42,7 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Kamani Mccalla
 
-  See [Kamani Mccalla's Project 2]()
+  See [Kamani Mccalla's Project 2](Project2/KamaniMccalla/Fall26_G5-main/minutes_3.md)
 
 ### Jayla Menefee
 
