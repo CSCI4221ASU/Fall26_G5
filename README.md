@@ -1,13 +1,53 @@
 # Fall26_G5
-Software Engineering Fall 2026
 
-Group 5
-## Product Vision 
+## Members
+1. Kamani Mccalla
+2. Jayla Menefee
+3. Key'marrion Thomas
 
+## Part 1: work done by each member
+### 1. Kamani Mccalla
+#### Product Vision statment
+
+    For students who want to study more consistently, Study Habit Tracker is an app that lets them set study goals, record their study time, and see their progress.
+
+#### Role and self introduction
+
+    My Role: Product Vision and Goal Setting/Team member
+    I am helping define the product vision and plan the goal-setting feature. Students will be able to choose a course, set a target amount of study time, and choose an end date. The app will show their progress toward that goal as they log study sessions.
+
+#### Minutes
+    My Meeting Minutes
+    1 hour 30 minutes
+
+### 2. Jayla Menefee
+
+    No submission
+
+### 3. Key'marrion Thomas
+#### Product Vision statement
 For students who want to study more consistently, study Habit Tracker is an app that lets them set study goals, record their study time, and see their progress.
 
-## My Role: Showing Progress Toward Goals
-I serve as the bridge between strategy and execution. While other team members focus on building the features, your primary responsibility is ensuring that everyone—from engineers to executive stakeholders—understands where the product is heading, why it matters, and how close we are to achieving those milestones.
+#### Role and self introduction
 
-## My Meeting Minutes
-1 hour 30 minutes
+    My Role: Showing Progress Toward Goals
+    I serve as the bridge between strategy and execution. While other team members focus on building the features, your primary responsibility is ensuring that everyone—from engineers to executive stakeholders—understands where the product is heading, why it matters, and how close we are to achieving those milestones.
+
+#### Minutes
+
+    My Meeting Minutes
+    1 hour 30 minutes
+
+## Project 2
+
+### Kamani Mccalla
+
+  See [Kamani Mccalla's Project 2](Project2/KamaniMccalla/Fall26_G5-main/minutes_3.md)
+
+### Jayla Menefee
+
+  No submission
+
+### Key'marrion Thomas
+ 
+  No Submission
