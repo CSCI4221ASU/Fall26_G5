@@ -58,11 +58,11 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Kamani Mccalla
 
-  See [Kamani Mccalla's Project 3]()
+  See [Kamani Mccalla's Project 3](Project3/KamaniMccalla/kamani_project3.md)
 
 ### Jayla Menefee
 
-  No submission
+  See [Jayla Menefee's Project 3](Project3/JaylaMenefee/project3.md)
 
 ### Key'marrion Thomas
  
