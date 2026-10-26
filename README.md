@@ -37,3 +37,33 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
     My Meeting Minutes
     1 hour 30 minutes
+
+## Project 2
+
+### Kamani Mccalla
+
+  See [Kamani Mccalla's Project 2]()
+
+### Jayla Menefee
+
+  No submission
+
+### Key'marrion Thomas
+ 
+  No Submission
+
+
+
+## Project 3
+
+### Kamani Mccalla
+
+  See [Kamani Mccalla's Project 3]()
+
+### Jayla Menefee
+
+  No submission
+
+### Key'marrion Thomas
+ 
+  No Submission
