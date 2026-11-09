@@ -66,7 +66,7 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Key'marrion Thomas
  
-  No Submission
+  See [Key's Project 3](Project3/Kthom145/project3.md)
 
 
 ## Project 4
@@ -81,4 +81,4 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Key'marrion Thomas
  
-  No Submission
+  See [Key's Project 4](Project4/Kthom145/README.md)
