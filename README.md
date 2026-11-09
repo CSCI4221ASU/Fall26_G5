@@ -77,7 +77,7 @@ For students who want to study more consistently, study Habit Tracker is an app 
 
 ### Jayla Menefee
 
-  See [Jayla Menefee's Project 3](Project3/JaylaMenefee/architecture.md)
+  See [Jayla Menefee's Project 4](Project4/JaylaMenefee/architecture.md)
 
 ### Key'marrion Thomas
  
