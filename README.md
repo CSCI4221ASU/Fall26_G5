@@ -67,3 +67,18 @@ For students who want to study more consistently, study Habit Tracker is an app 
 ### Key'marrion Thomas
  
   No Submission
+
+
+## Project 4
+
+### Kamani Mccalla
+
+  See [Kamani Mccalla's Project 4](Project4/KamaniMccalla/kamani_architecture.md)
+
+### Jayla Menefee
+
+  See [Jayla Menefee's Project 3](Project3/JaylaMenefee/architecture.md)
+
+### Key'marrion Thomas
+ 
+  No Submission
